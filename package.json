@@ -1,0 +1,5 @@
+npm init -y
+npm install express multer cors
+node_modules/
+backend/uploads/
+node server.js
